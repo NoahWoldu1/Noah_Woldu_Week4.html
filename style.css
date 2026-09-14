@@ -1,0 +1,26 @@
+body {
+    background-color: lightgray;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+}
+
+nav a {
+    color: blue;
+}
+
+nav a:hover {
+    color: red;
+}
+
+p {
+    font-size: 18px;
+    color: darkgreen;
+}
+
+li {
+    color: purple;
+}
